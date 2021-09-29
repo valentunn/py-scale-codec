@@ -11240,6 +11240,7 @@
     "(BoundedVec<ProxyDefinition<AccountId, ProxyType,  BlockNumber>, MaxProxies>, BalanceOf,)": "(BoundedVec<ProxyDefinition, MaxProxies>, BalanceOf)",
     "maxpending>": "Null",
     "(BoundedVec<Announcement<AccountId, CallHashOf,  BlockNumber>, MaxPending,>, BalanceOf,)": "(BoundedVec<ProxyAnnouncement, MaxPending>, BalanceOf)",
+    "WeakBoundedVec<BalanceLock<Balance>, MaxLocks>": "Vec<BalanceLock<Balance>>",
     "Approval<Balance, DepositBalanceOf<T, I>>": "AssetApproval",
     "Asset.Balance": "TAssetBalance",
     "Xcm": "XcmV1",
