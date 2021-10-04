@@ -2,5 +2,6 @@
   "runtime_id": 1,
   "types": {
     "AccountId": "[u8; 20]"
-  }
+  },
+  "versioning": []
 }
