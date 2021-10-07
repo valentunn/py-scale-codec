@@ -1,7 +1,8 @@
 {
   "runtime_id": 1,
   "types": {
-    "AccountId": "[u8; 20]"
+    "AccountId": "[u8; 20]",
+    "Address": "AccountId"
   },
   "versioning": []
 }
